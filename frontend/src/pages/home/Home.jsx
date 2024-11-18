@@ -8,7 +8,7 @@ const Home = () => {
       <Sidebar/>
       <MessageContainer/>
 
-      Home
+     
     </div>
   )
 }
